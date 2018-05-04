@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>32691039942-f6c0mo35tcnitevtqd8b9btsb268n6nk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.32691039942-f6c0mo35tcnitevtqd8b9btsb268n6nk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIhvf7M8h03h35m3tTJ2K9RqNhEEdJeRk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>32691039942</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.panicapp</string>
+	<key>PROJECT_ID</key>
+	<string>panicapp-8d7b8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>panicapp-8d7b8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:32691039942:ios:8a534eb902728093</string>
+	<key>DATABASE_URL</key>
+	<string>https://panicapp-8d7b8.firebaseio.com</string>
+</dict>
+</plist>
